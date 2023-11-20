@@ -12,7 +12,7 @@
 - 🤝 I’m looking for help with **React**
 
 
-- 💬 Ask me about **Html,CSS,Javascript**
+- 💬 Ask me about **Html,CSS,Javascript,C++,C,Python...**
 
 - 📫 How to reach me **akshatvermaav4@gmail.com**
 

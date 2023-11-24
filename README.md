@@ -16,7 +16,6 @@
 
 
 - 💬 Ask me about **Html,CSS,Javascript,C++,C,Python...**
-
 - 📫 How to reach me **akshatvermaav4@gmail.com**
 
 - ⚡ Fun fact **I am No where other than Whatsapp**

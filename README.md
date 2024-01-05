@@ -9,8 +9,6 @@
 - 💬 Ask me about **Html,CSS,Javascript,C++,C,Python...**
 - 
 - 📫 How to reach me **akshatvermaav4@gmail.com**
-
-
 - ⚡ Fun fact **I am No where other than Whatsapp**
 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshatverma&label=Profile%20views&color=0e75b6&style=flat" alt="akshatverma" /> </p>

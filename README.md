@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akshat Verma</h1>
 <h3 align="center">A dedicated Indian front-end developer filled with passion for crafting exceptional user experiences
- 
 </h3>
 
 
